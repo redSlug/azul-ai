@@ -1,0 +1,122 @@
+{
+    "factories": [
+        {
+            "tiles": [
+                {
+                    "tileColor": "green",
+                    "tileCount": 2
+                },
+                {
+                    "tileColor": "orange",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "purple",
+                    "tileCount": 1
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "tileColor": "red",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "green",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "blue",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "purple",
+                    "tileCount": 1
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "tileColor": "red",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "orange",
+                    "tileCount": 2
+                },
+                {
+                    "tileColor": "blue",
+                    "tileCount": 1
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "tileColor": "orange",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "green",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "purple",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "red",
+                    "tileCount": 1
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "tileColor": "purple",
+                    "tileCount": 1
+                },
+                {
+                    "tileColor": "green",
+                    "tileCount": 2
+                },
+                {
+                    "tileColor": "blue",
+                    "tileCount": 1
+                }
+            ]
+        },
+        {
+            "tiles": [
+                {
+                    "tileColor": "white",
+                    "tileCount": 1
+                }
+            ]
+        }
+    ],
+    "rows": [
+        {
+            "openSpaceCount": 1,
+            "tileColor": null
+        },
+        {
+            "openSpaceCount": 2,
+            "tileColor": null
+        },
+        {
+            "openSpaceCount": 3,
+            "tileColor": null
+        },
+        {
+            "openSpaceCount": 4,
+            "tileColor": null
+        },
+        {
+            "openSpaceCount": 5,
+            "tileColor": null
+        }
+    ]
+}
